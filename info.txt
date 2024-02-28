@@ -1,0 +1,3 @@
+Request (ou httpx): effectue des requetes http pour recuperer le code html.
+
+BeautifulSoup : analyser le html (parseur), naviguer dans le DOM (Document Object Model)
